@@ -96,6 +96,9 @@ while (isNaN(a)){
 	console.log(a, typeof a)
 } */
 
+
+// and(&&)
+
 // console.log(false && true); //false
 // console.log( 2 && 0); //0 falsy değer varsa and(&&) operatörü bize falsy değeri verir.
 // console.log(0 && 3); //0
